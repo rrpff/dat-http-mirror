@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "env": {
+    "ARCHIVE_KEY": "209da8c0427b511063592d806617064398332a2b14af86f86afba504f98f80c1",
+    "WEB_PORT": "80",
+    "NODE_ENV": "production",
+    "DEBUG": "rpf.me"
+  }
+}

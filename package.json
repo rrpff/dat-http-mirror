@@ -1,0 +1,18 @@
+{
+  "name": "dat-http-mirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "ARCHIVE_KEY=209da8c0427b511063592d806617064398332a2b14af86f86afba504f98f80c1 WEB_PORT=5000 node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat-node": "^3.5.15",
+    "hyperdrive-http": "^4.4.0",
+    "mkdirp": "^0.5.1"
+  }
+}
